@@ -1,0 +1,4 @@
+I love programming.
+I love creating new game.
+I also love finding meaning in large datasets.
+i love creating apps that can run in a browser.
